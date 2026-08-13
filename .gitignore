@@ -1,0 +1,9 @@
+# Obsidian 本地配置与插件（含 API key，不提交）
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Trash
+.trash/
